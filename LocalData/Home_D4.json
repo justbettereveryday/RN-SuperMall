@@ -1,0 +1,112 @@
+{
+    "stid": "432467386372663040",
+    "data": [{
+        "typeface_color": "#4c4c4c",
+        "position": 0,
+        "module": false,
+        "maintitle": "点评高分店",
+        "type": 1,
+        "deputytitle": "外卖餐馆排行榜",
+        "solds": 0,
+        "id": 4030,
+        "share": {
+            "message": "美团大众点评人气美食，不需排队就能送家吃",
+            "url": "http://i.meituan.com/firework/160906rbtdianping?activity_id=6966"
+        },
+        "title": "点评高分店",
+        "deputy_typeface_color": "#21c0ae",
+        "tplurl": "imeituan://www.meituan.com/web?url=http://i.meituan.com/firework/160906rbtdianping?activity_id=6966",
+        "imageurl": "http://p1.meituan.net/w.h/feop/b7c1e81420336e72789d9d645f2049cd24597.png"
+    }, {
+        "typeface_color": "#4c4c4c",
+        "position": 0,
+        "module": false,
+        "maintitle": "半价造型日",
+        "type": 1,
+        "deputytitle": "1折起全身美",
+        "solds": 0,
+        "id": 4010,
+        "share": {
+            "message": "丽人全场5折",
+            "url": "http://evt.dianping.com/event/merchant-sales/index.html?ua=meituan"
+        },
+        "title": "半价造型日",
+        "deputy_typeface_color": "#c280fc",
+        "tplurl": "imeituan://www.meituan.com/web?url=http://evt.dianping.com/event/merchant-sales/index.html?ua=meituan",
+        "imageurl": "http://p1.meituan.net/w.h/feop/6aa69cb6df58b712adb796ed58ea9cd68651.png"
+    }, {
+        "typeface_color": "#4c4c4c",
+        "position": 0,
+        "module": false,
+        "maintitle": "14.9元起",
+        "type": 1,
+        "deputytitle": "大片看不停",
+        "solds": 0,
+        "id": 4031,
+        "share": {
+            "message": "国庆七天乐，观影不孤单！",
+            "url": "http://i.meituan.com/firework/movie101meituan"
+        },
+        "title": "14.9元起",
+        "deputy_typeface_color": "#fc6a56",
+        "tplurl": "imeituan://www.meituan.com/web?url=http://i.meituan.com/firework/movie101meituan",
+        "imageurl": "http://p1.meituan.net/w.h/feop/0ffd6ff77e8cba71d91d6f3b9f0bce9731382.png"
+    }, {
+        "typeface_color": "#4c4c4c",
+        "position": 0,
+        "module": false,
+        "maintitle": "1元普吉岛",
+        "type": 1,
+        "deputytitle": "抄底免签海岛",
+        "solds": 0,
+        "id": 4048,
+        "share": {
+            "message": "1元普吉岛，抄底免签海岛",
+            "url": "http%3a%2f%2fi.meituan.com%2ffirework%2fisland"
+        },
+        "title": "1元普吉岛",
+        "deputy_typeface_color": "#fdb32b",
+        "tplurl": "imeituan://www.meituan.com/web?url=http%3a%2f%2fi.meituan.com%2ffirework%2fisland",
+        "imageurl": "http://p1.meituan.net/w.h/feop/59e5cccc233e469b250706aefaa3db0224076.png"
+    }, {
+        "typeface_color": "#4c4c4c",
+        "position": 0,
+        "module": false,
+        "maintitle": "一元抽奖",
+        "type": 1,
+        "deputytitle": "惊喜超乎想象",
+        "solds": 0,
+        "id": 4021,
+        "share": {
+            "message": "我在美团一元抢吧参与了抽奖，你也快来吧",
+            "url": "http://npay.meituan.com/resource/oneyuan/index.html?entry=home#deal-list"
+        },
+        "title": "一元抽奖",
+        "deputy_typeface_color": "#4f9dfc",
+        "tplurl": "imeituan://www.meituan.com/web?url=http://npay.meituan.com/resource/oneyuan/index.html?entry=home#deal-list",
+        "imageurl": "http://p0.meituan.net/w.h/feop/87c1dcdeb2dae718fa0c7e7a05563a1f7967.png"
+    }, {
+        "typeface_color": "#4c4c4c",
+        "position": 0,
+        "module": false,
+        "maintitle": "今日推荐",
+        "type": 1,
+        "deputytitle": "品质生活指南",
+        "solds": 0,
+        "id": 3283,
+        "share": {
+            "message": "吃喝玩乐全都有，尽在美团网！",
+            "url": "http://api.mobile.meituan.com/group/v1/re/p"
+        },
+        "title": "今日推荐",
+        "deputy_typeface_color": "#fc6a56",
+        "tplurl": "imeituan://www.meituan.com/recommend?url=http://api.mobile.meituan.com/group/v1/re/p",
+        "imageurl": "http://p1.meituan.net/w.h/feop/56fbe07ded8500d8eaf93cfd502b42d347768.png"
+    }],
+    "server": {
+        "time": 1475909738
+    },
+    "paging": {
+        "count": 6
+    }
+}
