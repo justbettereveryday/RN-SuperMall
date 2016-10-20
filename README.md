@@ -1,9 +1,9 @@
 # RN-SuperMall
 You can use thie project to have a look what react-native can do,that's may be a exciting thing for you.
 
-![image](https://github.com/justbettereveryday/RN-SuperMall/blob/master/GitHubImages/Home.png)
+![image](http://7xqzwm.com1.z0.glb.clouddn.com/Home.png)
 
-![image](https://github.com/justbettereveryday/RN-SuperMall/blob/master/GitHubImages/MallDemo.gif?raw=true)
+![image](http://7xqzwm.com1.z0.glb.clouddn.com/MallDemo.gif)
 
 
 How to run it:
@@ -18,3 +18,4 @@ How to run it:
 If there has an error like that:' Unable to resolve module react-timer-mixin from ***'
 
 just use this : 'npm i react-timer-mixin --save'
+
