@@ -1,9 +1,9 @@
 # RN-SuperMall
 You can use thie project to have a look what react-native can do,that's may be a exciting thing for you.
 
-![image](http://7xqzwm.com1.z0.glb.clouddn.com/Home.png)
+![image](https://github.com/justbettereveryday/RN-SuperMall/blob/master/Home.png)
 
-![image](http://7xqzwm.com1.z0.glb.clouddn.com/MallDemo.gif)
+![image](https://github.com/justbettereveryday/RN-SuperMall/blob/master/MallDemo.gif)
 
 
 How to run it:
